@@ -4,7 +4,7 @@ Checkpoint React — Composant fonctionnel avec gestion d'état et cycle de vie.
 
 ## 🚀 Tech Stack
 
-- [React 18](https://react.dev/) — UI
+- [React 19](https://react.dev/) — UI
 - [Vite](https://vitejs.dev/) — Bundler
 - [Tailwind CSS v4.3](https://tailwindcss.com/) — Styling
 
